@@ -50,7 +50,7 @@ Upon completion, add your version of `main.ipynb` to git. Then commit git and pu
 
 If you have completed the `apple_store` challenge without much difficulty, you will find this tutorial pretty easy. However, it's still a great tutorial to read because it explains a lot of the thinking process behind codes. You can skim through this tutorial quickly to check if there's anything you still don't know.
 
-### [Pandas Tutorial: Data analysis with Python | Part 2](https://www.dataquest.io/blog/pandas-tutorial-python-2/)
+### [Pandas Tutorial: Data analysis with Python | Part 2](https://www.dataquest.io/blog/pandas-tutorial-python-2/).
 
 This is an advanced tutorial about Pandas that involves [character encoding](http://www.cogsci.nl/blog/a-simple-explanation-of-character-encoding-in-python.html), [Pandas DataFrame `apply` method](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.apply.html), [Python `lambda` expression](https://docs.python.org/3/tutorial/controlflow.html#lambda-expressions), Python functional programming (you'll learn later this week), data cleaning (you'll learn later this week), and plotting with `matplotlib` (you'll learn in Module 2). There is a lot of new information but if you manage to complete this tutorial you'll be far ahead of your classmates.
 
